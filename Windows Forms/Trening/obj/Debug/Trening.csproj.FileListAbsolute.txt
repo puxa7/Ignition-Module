@@ -1,0 +1,30 @@
+C:\Users\Maciej\Desktop\7_semestr\Inżynierka\Trening\Trening\bin\Debug\Trening.exe.config
+C:\Users\Maciej\Desktop\7_semestr\Inżynierka\Trening\Trening\bin\Debug\Trening.exe
+C:\Users\Maciej\Desktop\7_semestr\Inżynierka\Trening\Trening\bin\Debug\Trening.pdb
+C:\Users\Maciej\Desktop\7_semestr\Inżynierka\Trening\Trening\obj\Debug\Trening.csprojAssemblyReference.cache
+C:\Users\Maciej\Desktop\7_semestr\Inżynierka\Trening\Trening\obj\Debug\Trening.Properties.Resources.resources
+C:\Users\Maciej\Desktop\7_semestr\Inżynierka\Trening\Trening\obj\Debug\Trening.csproj.GenerateResource.cache
+C:\Users\Maciej\Desktop\7_semestr\Inżynierka\Trening\Trening\obj\Debug\Trening.csproj.CoreCompileInputs.cache
+C:\Users\Maciej\Desktop\7_semestr\Inżynierka\Trening\Trening\obj\Debug\Trening.exe
+C:\Users\Maciej\Desktop\7_semestr\Inżynierka\Trening\Trening\obj\Debug\Trening.pdb
+C:\Users\Maciej\Desktop\7_semestr\Inżynierka\Trening\Trening\obj\Debug\Trening.a.resources
+C:\Users\Maciej\Desktop\7_semestr\Inżynierka\Projekty Windows Forms\Trening\Trening\bin\Debug\Trening.exe.config
+C:\Users\Maciej\Desktop\7_semestr\Inżynierka\Projekty Windows Forms\Trening\Trening\bin\Debug\Trening.exe
+C:\Users\Maciej\Desktop\7_semestr\Inżynierka\Projekty Windows Forms\Trening\Trening\bin\Debug\Trening.pdb
+C:\Users\Maciej\Desktop\7_semestr\Inżynierka\Projekty Windows Forms\Trening\Trening\obj\Debug\Trening.csprojAssemblyReference.cache
+C:\Users\Maciej\Desktop\7_semestr\Inżynierka\Projekty Windows Forms\Trening\Trening\obj\Debug\Trening.a.resources
+C:\Users\Maciej\Desktop\7_semestr\Inżynierka\Projekty Windows Forms\Trening\Trening\obj\Debug\Trening.Properties.Resources.resources
+C:\Users\Maciej\Desktop\7_semestr\Inżynierka\Projekty Windows Forms\Trening\Trening\obj\Debug\Trening.csproj.GenerateResource.cache
+C:\Users\Maciej\Desktop\7_semestr\Inżynierka\Projekty Windows Forms\Trening\Trening\obj\Debug\Trening.csproj.CoreCompileInputs.cache
+C:\Users\Maciej\Desktop\7_semestr\Inżynierka\Projekty Windows Forms\Trening\Trening\obj\Debug\Trening.exe
+C:\Users\Maciej\Desktop\7_semestr\Inżynierka\Projekty Windows Forms\Trening\Trening\obj\Debug\Trening.pdb
+D:\Studia\7_semestr\inżynierka\Projekty Windows Forms\Trening\Trening\bin\Debug\Trening.exe.config
+D:\Studia\7_semestr\inżynierka\Projekty Windows Forms\Trening\Trening\bin\Debug\Trening.exe
+D:\Studia\7_semestr\inżynierka\Projekty Windows Forms\Trening\Trening\bin\Debug\Trening.pdb
+D:\Studia\7_semestr\inżynierka\Projekty Windows Forms\Trening\Trening\obj\Debug\Trening.csprojAssemblyReference.cache
+D:\Studia\7_semestr\inżynierka\Projekty Windows Forms\Trening\Trening\obj\Debug\Trening.a.resources
+D:\Studia\7_semestr\inżynierka\Projekty Windows Forms\Trening\Trening\obj\Debug\Trening.Properties.Resources.resources
+D:\Studia\7_semestr\inżynierka\Projekty Windows Forms\Trening\Trening\obj\Debug\Trening.csproj.GenerateResource.cache
+D:\Studia\7_semestr\inżynierka\Projekty Windows Forms\Trening\Trening\obj\Debug\Trening.csproj.CoreCompileInputs.cache
+D:\Studia\7_semestr\inżynierka\Projekty Windows Forms\Trening\Trening\obj\Debug\Trening.exe
+D:\Studia\7_semestr\inżynierka\Projekty Windows Forms\Trening\Trening\obj\Debug\Trening.pdb
